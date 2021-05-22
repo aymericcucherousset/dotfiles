@@ -20,3 +20,4 @@
 alias maj="apt update && apt upgrade -y && apt dist-upgrade -y"
 alias rmf="rm -r"
 alias la="ls -la"
+alias pgoogle="ping google.fr"
